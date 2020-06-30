@@ -1,10 +1,6 @@
 {
   "name": "samuel.world",
-<<<<<<< HEAD
   "homepage": "/samuel.world",
-=======
-  "homepage": "http://davidka7.github.io/samuel.world",
->>>>>>> 4fb25434363c9ef6543e16eea4f7647dc6885c4b
   "version": "0.1.0",
   "private": true,
   "dependencies": {
